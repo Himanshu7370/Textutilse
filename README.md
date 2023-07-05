@@ -1,4 +1,5 @@
 **TextUtils - Text Manipulation Web Application**
+##open link https://wordutilse.netlify.app/ to view website
 
 TextUtils is a text manipulation web application built using React.js, JavaScript, Bootstrap, HTML, and CSS. It offers a range of features to manipulate and analyze text, providing users with a convenient and efficient way to modify their text content. The application also includes a visually appealing design with light and dark mode options, enhancing the user experience.
 
