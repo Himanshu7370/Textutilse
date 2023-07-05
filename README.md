@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+**TextUtils - Text Manipulation Web Application**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextUtils is a text manipulation web application built using React.js, JavaScript, Bootstrap, HTML, and CSS. It offers a range of features to manipulate and analyze text, providing users with a convenient and efficient way to modify their text content. The application also includes a visually appealing design with light and dark mode options, enhancing the user experience.
 
-## Available Scripts
+Key Features:
+- Case Conversion: TextUtils allows users to convert the case of words within a paragraph. It provides options to convert text to uppercase, lowercase, capitalize the first letter of each word, or toggle the case of the text.
+- Word Count: The application enables users to determine the number of words in a given paragraph. It helps users analyze their text content by providing accurate word count information.
+- Light and Dark Modes: TextUtils offers a visually appealing experience with the option to switch between light and dark modes. Users can choose the mode that suits their preferences or adapt to different lighting conditions.
 
-In the project directory, you can run:
+Technology Stack:
+- React.js: TextUtils is built using the React.js library, which allows for efficient component-based development and a smooth user interface.
+- JavaScript: The application utilizes JavaScript for implementing dynamic functionalities and interactivity.
+- Bootstrap: TextUtils leverages Bootstrap, a popular CSS framework, to ensure a responsive and visually consistent design across different devices.
+- HTML: The application utilizes HTML for structuring the web content and presenting the text manipulation features.
+- CSS: TextUtils utilizes CSS for styling the web application and customizing the visual aspects, including the light and dark mode options.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+TextUtils provides users with a simple and intuitive interface to manipulate and analyze text effectively. Its range of features and visually appealing design make it a valuable tool for anyone working with text content. The application's utilization of React.js, JavaScript, Bootstrap, HTML, and CSS ensures a seamless and engaging user experience.
